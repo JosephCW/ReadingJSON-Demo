@@ -1,0 +1,14 @@
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\bin\Debug\ReadingJSON.exe.config
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\bin\Debug\ReadingJSON.exe
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\bin\Debug\ReadingJSON.pdb
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.csprojAssemblyReference.cache
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.Form1.resources
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.Properties.Resources.resources
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.csproj.GenerateResource.cache
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.csproj.CoreCompileInputs.cache
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.csproj.CopyComplete
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.exe
+C:\Users\ALPR\source\repos\ReadingJSON\ReadingJSON\obj\Debug\ReadingJSON.pdb
